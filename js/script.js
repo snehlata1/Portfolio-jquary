@@ -9,7 +9,9 @@ function lightboxPhoto() {
 			slideshow:5000,
 			theme:'light_rounded',
 			show_title:false,
+			autoplay:true,
 			overlay_gallery: false
+			
 		});
 	
 	}
